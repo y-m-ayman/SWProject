@@ -1,5 +1,5 @@
 #include <cassert>
-#include "math.cpp"
+#include "calculator.cpp"
 
 int main() {
     assert(add(1,1) == 2); //this should FAIL
